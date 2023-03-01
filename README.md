@@ -6,7 +6,7 @@
 - 😀I'm Sohel Shaikh A Full Stack-Developer🧑‍💻 And Student👨‍🎓  
   
 
-- 🔭 I’m currently student at on [Fergusson College](https://www.fergusson.edu/)  
+- 🔭 I’m currently student at [Fergusson College](https://www.fergusson.edu/)  
   
 
 - 🌱 I’m currently learning Aws and Docker  
