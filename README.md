@@ -1,5 +1,5 @@
 # 💫 About Me:
-😀I'm Sohel Shaikh A Full Stack-Developer🧑‍💻 And Student👨‍🎓<br>🔭 I’m currently student at Fergusson College <br>🌱 I’m currently learning Azure and Docker<br>💬 Ask me about anything related to MERN stack and related technologies<br>⚡ Fun fact: There Is None😂
+😀I'm Sohel Shaikh A Full Stack-Developer🧑‍💻 And Student👨‍🎓<br>🔭 I’m currently student at Fergusson College <br>🌱 I’m currently learning Azure and Docker<br>💬 Ask me about anything related to MERN stack and related technologies<br>⚡ Fun fact: I Prefer Story Games Over FPS
 
 
 ## 🌐 Socials:
